@@ -1,0 +1,14 @@
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\bin\Debug\net9.0\e-tic kampanya kontrol.exe
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\bin\Debug\net9.0\e-tic kampanya kontrol.deps.json
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\bin\Debug\net9.0\e-tic kampanya kontrol.runtimeconfig.json
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\bin\Debug\net9.0\e-tic kampanya kontrol.dll
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\bin\Debug\net9.0\e-tic kampanya kontrol.pdb
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\e-tic kampanya kontrol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\e-tic kampanya kontrol.AssemblyInfoInputs.cache
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\e-tic kampanya kontrol.AssemblyInfo.cs
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\e-tic kampanya kontrol.csproj.CoreCompileInputs.cache
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\e-tic kampanya kontrol.dll
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\refint\e-tic kampanya kontrol.dll
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\e-tic kampanya kontrol.pdb
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\e-tic kampanya kontrol.genruntimeconfig.cache
+C:\Users\Win10\RiderProjects\e-tic kampanya kontrol\e-tic kampanya kontrol\obj\Debug\net9.0\ref\e-tic kampanya kontrol.dll
